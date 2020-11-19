@@ -1,0 +1,102 @@
+{
+    "name": "tab-jumper",
+    "displayName": "Tab Jumper",
+    "description": "Jump to a specific tab or tab group and move tabs or tab groups around",
+    "version": "1.0.0",
+    "publisher": "chris",
+    "icon": "tabs.png",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Keymaps"
+    ],
+    "contributes": {
+        "keybindings": [
+            {
+                "key": "cmd+1",
+                "command": "workbench.action.openEditorAtIndex1"
+            },
+            {
+                "key": "cmd+2",
+                "command": "workbench.action.openEditorAtIndex2"
+            },
+            {
+                "key": "cmd+3",
+                "command": "workbench.action.openEditorAtIndex3"
+            },
+            {
+                "key": "cmd+4",
+                "command": "workbench.action.openEditorAtIndex4"
+            },
+            {
+                "key": "cmd+5",
+                "command": "workbench.action.openEditorAtIndex5"
+            },
+            {
+                "key": "cmd+6",
+                "command": "workbench.action.openEditorAtIndex6"
+            },
+            {
+                "key": "cmd+7",
+                "command": "workbench.action.openEditorAtIndex7"
+            },
+            {
+                "key": "cmd+8",
+                "command": "workbench.action.openEditorAtIndex8"
+            },
+            {
+                "key": "cmd+9",
+                "command": "workbench.action.openEditorAtIndex9"
+            },
+            {
+                "key": "alt+cmd+1",
+                "command": "workbench.action.focusFirstEditorGroup"
+            },
+            {
+                "key": "alt+cmd+2",
+                "command": "workbench.action.focusSecondEditorGroup"
+            },
+            {
+                "key": "alt+cmd+3",
+                "command": "workbench.action.focusThirdEditorGroup"
+            },
+            {
+                "key": "alt+cmd+4",
+                "command": "workbench.action.focusFourthEditorGroup"
+            },
+            {
+                "key": "alt+cmd+5",
+                "command": "workbench.action.focusFifthEditorGroup"
+            },
+            {
+                "key": "alt+cmd+6",
+                "command": "workbench.action.focusSixthEditorGroup"
+            },
+            {
+                "key": "alt+cmd+7",
+                "command": "workbench.action.focusSeventhEditorGroup"
+            },
+            {
+                "key": "alt+cmd+8",
+                "command": "workbench.action.focusEighthEditorGroup"
+            },
+            {
+                "key": "shift+cmd+o",
+                "command": "workbench.action.moveEditorLeftInGroup"
+            },
+            {
+                "key": "shift+cmd+p",
+                "command": "workbench.action.moveEditorRightInGroup"
+            },
+            {
+                "key": "alt+cmd+o",
+                "command": "workbench.action.moveActiveEditorGroupLeft"
+            },
+            {
+                "key": "alt+cmd+p",
+                "command": "workbench.action.moveActiveEditorGroupRight"
+            }
+        ]
+    }
+}
