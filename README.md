@@ -1,6 +1,6 @@
 <a name="mainContents"></a>
 # Tab Jumper
-```A Visual Studio Code extension by Chris Castanuela```
+```A Visual Studio Code extension by Christopher Castanuela```
 
 ![Tab Jumper Gif](https://user-images.githubusercontent.com/62910433/99739283-a5792c00-2a89-11eb-953f-acad4b73df96.gif)
 ## [Repo](https://github.com/Chriscastanuela/tab-jumper)
@@ -10,9 +10,7 @@
 
 * [About](#about)
 * [Commands](#commands)
-* [Successes](#successes)
-* [What I Enjoyed the Most](#wwetm)
-* [Link to the Author](#ltta)
+* [Installation](#i)
 
 # About 
 
