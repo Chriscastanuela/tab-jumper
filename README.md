@@ -3,51 +3,50 @@
 ```A Visual Studio Code extension by Christopher Castanuela```
 
 ![Tab Jumper Gif](https://user-images.githubusercontent.com/62910433/99739283-a5792c00-2a89-11eb-953f-acad4b73df96.gif)
-## [Repo](https://github.com/Chriscastanuela/tab-jumper)
-## [Personal Website](https://chriscastanuela.github.io/Christopher-Anthony-Castanuela/)
-## [Youtube Tab Jumper Tutorial](https://youtu.be/olx5YO9SQ40)
+### [Repo](https://github.com/Chriscastanuela/tab-jumper)
+### [Personal Website](https://chriscastanuela.github.io/Christopher-Anthony-Castanuela/)
+### [Youtube Tab Jumper Tutorial](https://youtu.be/olx5YO9SQ40)
 # Contents 
 
-* [About](#about)
-* [Commands](#commands)
-* [Installation](#i)
+* About
+* Commands
+* Installation
 
 # About 
-
-<a name="about"></a>
-
-[Back to Main](#mainContents)
-<!-- <ul>
-    <li>The "Tab-Jumper" extension allows you to easily </li>
-</ul> -->
 <p>The "Tab-Jumper" extension allows you to easily jump to a specific VSCode tab or tab group and move tabs/tab groups around with different commands</p>
 
 # Commands
-<a name="commands"></a>
-
-[Back to Main](#mainContents)
 ## Jump to tabs 1 through 9 in a tab group
-<p>cmd+(tab number)</p>
+<ul>
+    <li>cmd+(tab number)</li>
+</ul>
 
 ## Jump to tab groups 1 through 8
-<p>alt (option)+cmd+(tab number)</p>
+<ul>
+    <li>alt (option)+cmd+(tab number)</li>
+</ul>
 
 ## Move the active tab left in the active tab group
-<p>shift+cmd+o</p>
+<ul>
+    <li>shift+cmd+o</li>
+</ul>
 
 ## Move the active tab right in the active tab group
-<p>shift+cmd+p</p>
+<ul>
+    <li>shift+cmd+p</li>
+</ul>
 
 ## Move the active tab group left
-<p>alt (option)+cmd+o</p>
+<ul>
+    <li>alt (option)+cmd+o</li>
+</ul>
 
 ## Move the active tab group right
-<p>alt (option)+cmd+p</p>
+<ul>
+    <li>alt (option)+cmd+p</li>
+</ul>
 
 # Installation
-<a name="i"></a>
-
-[Back to Main](#mainContents)
 <ol>
     <li>Open the extensions sidebar on Visual Studio Code</li>
     <li>Search for Tab Jumper</li>
