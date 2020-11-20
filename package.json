@@ -4,6 +4,10 @@
     "description": "Jump to a specific tab or tab group and move tabs or tab groups around",
     "version": "1.0.0",
     "publisher": "chris",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Chriscastanuela/tab-jumper"
+    },
     "icon": "tabs.png",
     "engines": {
         "vscode": "^1.51.0"
