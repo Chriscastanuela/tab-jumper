@@ -14,7 +14,9 @@
 
 # About 
 <p>The "Tab-Jumper" extension allows you to easily jump to a specific VSCode tab or tab group and move tabs/tab groups around with different commands</p>
-* If you want a Microsoft version and you know which keys would be best for a Microsoft keyboard let me know and I will add that in
+<ul>
+    <li>If you would like a Microsoft version and you know which keys would be best for a Microsoft keyboard let me know and I will add that in</li>
+</ul>
 
 # Commands
 ### Jump to tabs 1 through 9 in a tab group
