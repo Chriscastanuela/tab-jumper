@@ -2,7 +2,7 @@
 	"name": "tab-jumper",
 	"displayName": "Tab Jumper",
 	"description": "Jump to a specific tab or tab group and move tabs or tab groups around",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "ChristopherAnthonyCastanuela",
 	"repository": {
 		"type": "git",
