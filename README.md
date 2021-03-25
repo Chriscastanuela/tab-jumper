@@ -1,4 +1,4 @@
-<!--To redeploy: -->
+<!--To redeploy: https://code.visualstudio.com/api/working-with-extensions/publishing-extension-->
 
 <a name="mainContents"></a>
 # Tab Jumper
@@ -6,20 +6,17 @@
 ###### [Link to extension](https://marketplace.visualstudio.com/items?itemName=ChristopherAnthonyCastanuela.tab-jumper)
 
 ![Tab Jumper Gif](https://user-images.githubusercontent.com/62910433/99739283-a5792c00-2a89-11eb-953f-acad4b73df96.gif)
-### [Repo](https://github.com/Chriscastanuela/tab-jumper)
-### [Personal Website](https://chriscastanuela.github.io/cac/)
-### [Youtube Tab Jumper Tutorial](https://youtu.be/olx5YO9SQ40)
+##### [Repo](https://github.com/Chriscastanuela/tab-jumper)
+##### [Buy Me a Coffee](https://www.buymeacoffee.com/christophercastanuela)
+##### [Personal Website](https://chriscastanuela.github.io/cac/)
+##### [Youtube Tab Jumper Tutorial](https://youtu.be/olx5YO9SQ40)
 # Contents 
 
 * About
 * Commands
-* Installation
 
 # About 
 <p>The "Tab-Jumper" extension allows you to easily jump to a specific VSCode tab or tab group and move tabs/tab groups around with different commands</p>
-<ul>
-    <li><em>If you would like a Microsoft version and you know which keys would be best for a Microsoft keyboard let me know and I will add that in</em></li>
-</ul>
 
 # Commands
 ### Jump to tabs 1 through 9 in a tab group
@@ -51,11 +48,3 @@
 <ul>
     <li>alt (option)+cmd+p</li>
 </ul>
-
-# Installation
-<ol>
-    <li>Open the extensions sidebar on Visual Studio Code</li>
-    <li>Search for Tab Jumper</li>
-    <li>Click Install to install it</li>
-    <li>Close and reopen your editor</li>
-</ol>
