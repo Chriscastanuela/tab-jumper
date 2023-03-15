@@ -15,9 +15,14 @@
 <p>The "Tab-Jumper" extension allows you to easily jump to a specific VSCode tab or tab group and move tabs/tab groups around with different commands</p>
 
 # Commands
-### Jump to tabs 1 through 9 in a tab group
+### Jump to tabs 1 through 8 in a tab group
 <ul>
     <li>cmd+(tab number)</li>
+</ul>
+
+### Jump to the last tab
+<ul>
+    <li>cmd+9</li>
 </ul>
 
 ### Jump to tab groups 1 through 8
