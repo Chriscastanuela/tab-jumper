@@ -51,7 +51,7 @@
 			},
 			{
 				"key": "cmd+9",
-				"command": "workbench.action.openEditorAtIndex9"
+				"command": "workbench.action.lastEditorInGroup"
 			},
 			{
 				"key": "alt+cmd+1",
