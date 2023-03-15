@@ -17,30 +17,30 @@
 # Commands
 ### Jump to tabs 1 through 9 in a tab group
 <ul>
-    <li>cmd+(tab number)</li>
+    <li>CMD + (tab number)</li>
 </ul>
 
 ### Jump to tab groups 1 through 8
 <ul>
-    <li>alt (option)+cmd+(tab number)</li>
+    <li>OPTION + CMD + (tab number)</li>
 </ul>
 
 ### Move the active tab left in the active tab group
 <ul>
-    <li>shift+cmd+o</li>
+    <li>SHIFT + CONTROL + CMD + [</li>
 </ul>
 
 ### Move the active tab right in the active tab group
 <ul>
-    <li>shift+cmd+p</li>
+    <li>SHIFT + CONTROL + CMD + ]</li>
 </ul>
 
 ### Move the active tab group left
 <ul>
-    <li>alt (option)+cmd+o</li>
+    <li>SHIFT + OPTION + CMD + [</li>
 </ul>
 
 ### Move the active tab group right
 <ul>
-    <li>alt (option)+cmd+p</li>
+    <li>SHIFT + OPTION + CMD + ]</li>
 </ul>

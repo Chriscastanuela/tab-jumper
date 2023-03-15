@@ -86,19 +86,19 @@
 				"command": "workbench.action.focusEighthEditorGroup"
 			},
 			{
-				"key": "shift+cmd+o",
+				"key": "ctrl+shift+meta+[BracketLeft]",
 				"command": "workbench.action.moveEditorLeftInGroup"
 			},
 			{
-				"key": "shift+cmd+p",
+				"key": "ctrl+shift+meta+[BracketRight]",
 				"command": "workbench.action.moveEditorRightInGroup"
 			},
 			{
-				"key": "alt+cmd+o",
+				"key": "shift+alt+meta+[BracketLeft]",
 				"command": "workbench.action.moveActiveEditorGroupLeft"
 			},
 			{
-				"key": "alt+cmd+p",
+				"key": "shift+alt+meta+[BracketRight]",
 				"command": "workbench.action.moveActiveEditorGroupRight"
 			}
 		]
